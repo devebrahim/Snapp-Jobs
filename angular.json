@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "SnappJobs"
+  "defaultProject": "SnappJobs",
+  "cli": {
+    "analytics": false
+  }
 }
